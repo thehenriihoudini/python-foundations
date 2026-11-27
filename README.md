@@ -1,2 +1,2 @@
-# python-from-zer0-series
+# python-from-zero-series
 Day 1 : Introduction to Python
